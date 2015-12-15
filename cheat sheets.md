@@ -1,1 +1,1 @@
-Shiar's cheat sheets http://sheet.shiar.nl/
+# [Shiar's cheat sheets] (<http://sheet.shiar.nl/>)
